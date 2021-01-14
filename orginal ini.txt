@@ -181,4 +181,5 @@ read_buffer=2M
 write_buffer=2M
 
 [mysqlhotcopy]
-#my edit
+#my edit 1
+#my edit 2
